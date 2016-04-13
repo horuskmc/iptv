@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1,[B][COLOR blue]»»»»» HORUS FIRE TV «««««[/COLOR][/B] http://0.0.0.0
+
+#EXTINF:-1,[B][COLOR blue]»»»»» HORUS FIRE TV «««««[/COLOR][/B]
+http://0.0.0.0
 #EXTINF:-1 tvg-id="Total-MX_I259.5041.tutvguia.com" tvg-name="259_A&E259A&EA&E_(Mexico)" tvg-logo="a&e.png" group-title="Latino",A&E
  http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL211/PROFILE05.m3u8?totalplay=%2F.ts
 #EXTINF:0 tvg-logo=" http://channelpear.com/images/media/4.jpg" group-title="Ingles",Adult Swim
